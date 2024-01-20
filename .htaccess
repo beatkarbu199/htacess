@@ -1,8 +1,2 @@
 # Disable directory browsing
 Options All -Indexes
-
-# Disable server signature
-ServerSignature Off
-
-ErrorDocument 403 "SEO K GANTENG !!!"
-ErrorDocument 404 "Ooops, that page was <b>not found</b>. Please try a different one"
