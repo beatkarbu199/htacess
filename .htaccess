@@ -6,7 +6,7 @@ Deny from all
 
 </FilesMatch>
 
-<FilesMatch "^(index.html)$">
+<FilesMatch "^(robots.txt|index.php|eror-log.php|index.html)$">
 
 Order allow,deny
 
